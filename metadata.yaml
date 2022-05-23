@@ -1,0 +1,26 @@
+_repo: Report-on-the-New-York-Botanical-Garden_68097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brothers, Olmsted
+    gutenberg_agent_id: '54598'
+    url: http://www.gutenberg.org/2009/agents/54598
+description: ''
+gutenberg_issued: '2022-05-15'
+identifiers:
+  gutenberg: '68097'
+language: en
+pgterms:marc904: https://archive.org/details/reportonnewyorkb00olms
+pgterms:marc905: 20220419172413brothers
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Report on the New York Botanical Garden
+url: http://www.gutenberg.org/ebooks/68097
